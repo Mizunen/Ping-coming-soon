@@ -26,9 +26,7 @@ h1{
     font-size: 1.25rem;
 }
 
-.period{
-    color:hsl(223, 87%, 63%);
-}
+
 
 .launching-soon{
     font-size: 1.25rem;
@@ -40,6 +38,10 @@ h1{
 .highlight{
     color: hsl(209, 33%, 12%);
     font-weight: 700;
+}
+
+.period{
+    color: hsl(223, 87%, 63%);
 }
 
 .subscribe{
