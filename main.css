@@ -24,7 +24,10 @@ h1{
     margin-top: 3rem;
     margin-bottom: 0;
     font-size: 1.25rem;
-    
+}
+
+.period{
+    color:hsl(223, 87%, 63%);
 }
 
 .launching-soon{
